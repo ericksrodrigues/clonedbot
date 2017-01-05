@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "580698678785838",
+    "pageAccessToken": "EAAIQJHJ4dy4BADK4hJZAQ76sy4gR13Ip2KHVqryKBqOZAIdEM22tKt1Dul9aCgsRZBXywUXZBnN84oQJlL17vvYe522gsfN3dff50xGoiUGAzfynyN0ujJ1Nb3LT8UCqzhJR52LCfPzBjbmoGA4rHdZCKdfZA8mgQ4kF4V3RlfBwZDZD",
+    "validationToken": "testebot",
+    "serverURL": "https://arcane-earth-45255.herokuapp.com/"
 }
